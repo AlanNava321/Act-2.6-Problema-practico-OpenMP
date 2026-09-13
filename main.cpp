@@ -1,7 +1,19 @@
+/*
+ Actividad 2.3 - Reduce en OpenMP
+ Integrantes:
+ Hernandez Garcia Hector Gabriel
+ Hernandez Morales Cristobal Giovanni
+ Nava Gutierrez Alan Santiago
+*/
+
 #include <iostream>
 #include "BuscadorClaves.h"
 
 int main() {
+    std::cout << "Hernandez Garcia Hector Gabriel\n";
+    std::cout << "Hernandez Morales Cristobal Giovanni\n";
+    std::cout << "Nava Gutierrez Alan Santiago\n\n";
+
     int longitud;
     // Buffer estático solo para capturar la entrada de la consola.
     // La clase se encarga de pasarlo a un arreglo dinámico después.
@@ -62,5 +74,10 @@ int main() {
     }
 
     std::cout << "\nPractica finalizada correctamente.\n";
+
+    std::cout << "Hernandez Garcia Hector Gabriel\n";
+    std::cout << "Hernandez Morales Cristobal Giovanni\n";
+    std::cout << "Nava Gutierrez Alan Santiago\n\n";
+
     return 0;
 }
