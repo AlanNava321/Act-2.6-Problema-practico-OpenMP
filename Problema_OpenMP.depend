@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1789330428 source:c:\proyectos_c++\problema_openmp\buscadorclaves.cpp
+	"BuscadorClaves.h"
+	<iostream>
+	<omp.h>
+
+1789330428 c:\proyectos_c++\problema_openmp\buscadorclaves.h
+
