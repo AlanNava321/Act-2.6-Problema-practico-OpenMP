@@ -1,5 +1,5 @@
 /*
- Actividad 2.3 - Reduce en OpenMP
+ Actividad 2.6 - Problema práctico en OpenMP
  Integrantes:
  Hernandez Garcia Hector Gabriel
  Hernandez Morales Cristobal Giovanni
